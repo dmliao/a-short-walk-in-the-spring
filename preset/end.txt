@@ -1,0 +1,37 @@
+I've come to the end of a long road.
+
+I spent many springs gathering flowers, and before I knew it I was back here.
+
+It's getting harder to move my body around, so I don't think I can do anymore traveling. But that's okay. Everything must come to an end.
+
+Was it worth it?
+
+<<if $dests >= {{number}}>>
+I've been diligent. I summoned you at all the places you promised to be, saw all the flowers you never did.
+
+I still don't understand them, but that's okay.
+
+The spirits aren't much talkative, but it was good to hear your voice. I don't think I'll hear that voice again.
+
+...
+
+A long road, indeed. At the very end, beyond the flowers, beyond the people who have left us behind, you are there, waiting.
+<<else if $dests > 0>>
+I wandered a bit. I might've felt a bit bad about it, but the world is wider and stranger than I knew. I wouldn't have seen half the things I did had I plowed straight ahead.
+
+At least I visited your spirit, a few times. I don't think I will again.
+
+...
+
+A long road, indeed. At the very end, beyond the flowers, beyond the people who have left us behind, you are there, waiting.
+<<else>>
+I think so. I traveled a lot. I saw places that I don't think I would've.
+
+I don't know what to think of you. You left me behind, and left me all these commands, and didn't really give me a way out. But I found my own way.
+
+By the end, I realized that I don't miss you. I traveled not for your sake, but for the sake of my wonder. I felt bad about it, but I don't anymore. I had fun.
+
+At the end of the long road, all that's left is me, and the edge of the world.
+<<endif>>
+
+Fin.

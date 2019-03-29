@@ -1,0 +1,12 @@
+I stop.
+
+I've gotten hopelessly lost, to the point that I know I can't make it.
+
+The seasons are changing. By the time I reach the {{destination}}, there won't be any more flowers.
+
+"Sorry."
+
+There is no response.
+
+[[I turn around, and return home alone.|{{home}}]]
+

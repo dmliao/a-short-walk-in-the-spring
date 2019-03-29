@@ -1,0 +1,27 @@
+[
+    {
+        "name": "hamlet",
+        "min": 1,
+        "max": 100
+    },
+    {
+        "name": "village",
+        "min": 100,
+        "max": 1000
+    },
+    {
+        "name": "town",
+        "min": 1000,
+        "max": 20000
+    },
+    {
+        "name": "city",
+        "min": 20000,
+        "max": 100000
+    },
+    {
+        "name": "metropolis",
+        "min": 100000,
+        "max": 300000
+    }
+]

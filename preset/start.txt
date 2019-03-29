@@ -1,0 +1,12 @@
+It's spring.
+
+The garden is empty. My fault entirely. I was never good at taking care of plants, and before I knew it the old ones had withered away.
+
+You would always show me various pictures of flowers from distant cities, say that you would like to see them just once. I visited your ghost the other day and you said the same thing, so I know it must be right.
+
+I'm not good at taking care of flowers, so I can't bring them back for you. But I can see them, tell you, show you the photos.
+
+[[I've decided. I shall visit the world you never saw.|{{dest}}]]
+
+<<set $dests = 0>>
+
